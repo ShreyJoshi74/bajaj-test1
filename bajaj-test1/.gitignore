@@ -1,0 +1,11 @@
+/target/
+*.jar
+*.class
+*.log
+*.iml
+/.idea/
+/.vscode/
+/.mvn/
+/.settings/
+/.project
+/.classpath
